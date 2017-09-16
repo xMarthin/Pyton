@@ -4,4 +4,3 @@ def adc(a, b):
     else:
         return b
 
-print(adc(4,7))
